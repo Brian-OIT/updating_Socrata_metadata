@@ -11,9 +11,8 @@
 **Program Official** - Travis Hoppe (<qrd5@cdc.gov>)
 
 ## Related Publications
-- 
-- 
-- 
+- Spencer MR, Ahmad F. Timeliness of death certificate data for mortality surveillance and provisional estimates. National Center for Health Statistics. 2016. Available from: [https://www.cdc.gov/nchs/data/vsrr/report001.pdf](https://www.cdc.gov/nchs/data/vsrr/report001.pdf)
+- Hedegaard H, Miniño AM, Warner M. Drug overdose deaths in the United States, 1999–2018. NCHS Data Brief, no 356. Hyattsville, MD: National Center for Health Statistics. 2020. Available from: [https://www.cdc.gov/nchs/products/databriefs/db356.htm](https://www.cdc.gov/nchs/products/databriefs/db356.htm)
 
 ## Sample Notebooks
 
