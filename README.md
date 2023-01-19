@@ -10,10 +10,6 @@
 
 **Program Official** - Travis Hoppe (<qrd5@cdc.gov>)
 
-## Related Publications [sample]
-- Spencer MR, Ahmad F. Timeliness of death certificate data for mortality surveillance and provisional estimates. National Center for Health Statistics. 2016. Available from: [https://www.cdc.gov/nchs/data/vsrr/report001.pdf](https://www.cdc.gov/nchs/data/vsrr/report001.pdf)
-- Hedegaard H, Miniño AM, Warner M. Drug overdose deaths in the United States, 1999–2018. NCHS Data Brief, no 356. Hyattsville, MD: National Center for Health Statistics. 2020. Available from: [https://www.cdc.gov/nchs/products/databriefs/db356.htm](https://www.cdc.gov/nchs/products/databriefs/db356.htm)
-
 ## Sample Notebooks
 
 - [Create-Public-NCHS-Datasets-CSV](Create-Public-NCHS-Datasets-CSV.ipynb) - Read latests data.json file from data.cdc.gov and write a list of NCHS datasets to CSV.
@@ -26,6 +22,11 @@
 ## Sample Scripts
 
 - [update_common_core.py](update_common_core.py) - Explictly change some elements of the Common Core for a fixed number of datasets on Socrata. Script provided by Brian Salant (<pev9@cdc.gov>).
+
+## Related Publications [sample]
+
+- Spencer MR, Ahmad F. Timeliness of death certificate data for mortality surveillance and provisional estimates. National Center for Health Statistics. 2016. Available from: [https://www.cdc.gov/nchs/data/vsrr/report001.pdf](https://www.cdc.gov/nchs/data/vsrr/report001.pdf)
+- Hedegaard H, Miniño AM, Warner M. Drug overdose deaths in the United States, 1999–2018. NCHS Data Brief, no 356. Hyattsville, MD: National Center for Health Statistics. 2020. Available from: [https://www.cdc.gov/nchs/products/databriefs/db356.htm](https://www.cdc.gov/nchs/products/databriefs/db356.htm)
 
 ## Notes
 
